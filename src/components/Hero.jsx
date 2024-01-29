@@ -13,7 +13,7 @@ const Hero = () => {
           onClick={() =>
             window.open("https://github.com/Gruntmaster/AI-Summary", "_blank")
           }
-          className='black_btn'
+          className='blue_btn'
         >
           GitHub
         </button>
